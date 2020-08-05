@@ -1,6 +1,7 @@
 # Fraud-Detection-web-service
 
-Serving a machine learning model as a webservice using Python, Flask, Docker, AWS ec2. I have used Credit Card Fraud Detection from kaggle link below
+Serving a machine learning model as a webservice using Python, Flask, Docker, AWS ec2.\
+I have used Credit Card Fraud Detection from kaggle link below
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 # Getting Started
