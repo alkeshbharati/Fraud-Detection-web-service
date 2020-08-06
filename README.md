@@ -10,5 +10,5 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 3.Execute the command python app.py to run the flask app.\
 4.Go to the browser and hit the url 0.0.0.0:80 to get a message Hello World! displayed. You can change the port according to your availability\
 5.Next, run the below command in terminal to query the flask server\
-&nbsp;&nbsp;Run docker build -t deploy-model . to build the docker image using Dockerfile.\
-&nbsp;&nbsp;Run docker run -p 80:80 deploy-model to run the docker container that got generated using the deploy-model docker image. (This assumes that the port in app.py is set to 80)
+&nbsp;&nbsp;&nbsp;&nbsp;Run docker build -t deploy-model . to build the docker image using Dockerfile.\
+&nbsp;&nbsp;&nbsp;&nbsp;Run docker run -p 80:80 deploy-model to run the docker container that got generated using the deploy-model docker image. (This assumes that &nbsp;&nbsp;&nbsp;&nbsp;the port in app.py is set to 80)
